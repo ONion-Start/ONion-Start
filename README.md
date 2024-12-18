@@ -1,6 +1,6 @@
 <h3 align="center">My name is Timofey, i'm a passionate software engineer specializing in C++. With a strong focus on developing high-performance applications, I thrive on tackling complex challenges and optimizing code for efficiency. My experience spans across various domains, including systems programming, game development, and embedded systems. I love collaborating with teams to create innovative solutions that push the boundaries of technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onion-start" alt="onion-start" /></a> </p>
+
 
 - 📫 How to reach me **timaenglish3blue@gmail.com**
 
